@@ -15,7 +15,7 @@ public class Principal {
 		int opcion=0;
 		
 		System.out.println("Bienvenido a Amasonia.es, su tienda de confianza. Inicie sesión o registrese para continuar");
-
+		System.out.println("Hola, mi hente");
 		do {
 			//primero preguntar si quiere iniciar sesion o registrarse
 			System.out.println("1: Iniciar Sesión. \r\n2: Registrarse");
